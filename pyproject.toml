@@ -1,0 +1,14 @@
+[project]
+name = "py-youtubedown"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "clipboard>=0.0.4",
+    "icecream>=2.1.8",
+    "numpy>=2.4.0",
+    "pyinstaller>=6.17.0",
+    "pyside6>=6.10.1",
+    "yt-dlp>=2025.12.8",
+]
